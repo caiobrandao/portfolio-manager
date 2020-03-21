@@ -1,0 +1,16 @@
+{"asset":"equity", "name": "LREN3", "quantity": 100, "price": 42.9, "cost": 7.9, "operation": "buy", "date": "2019-05-18", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "MOVI3", "quantity": 500, "price": 11.3, "cost": 7.9, "operation": "buy", "date": "2019-06-08", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "PETR4", "quantity": 200, "price": 19.4, "cost": 7.9, "operation": "buy", "date": "2019-02-07", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "VALE3", "quantity": 300, "price": 46.1, "cost": 7.9, "operation": "buy", "date": "2019-07-26", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "MGLU3", "quantity": 100, "price": 194.8, "cost": 7.9, "operation": "buy", "date": "2019-05-17", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "RAIL3", "quantity": 300, "price": 22.7, "cost": 7.9, "operation": "buy", "date": "2019-04-03", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "OIBR3", "quantity": 4100, "price": 1.64, "cost": 7.9, "operation": "buy", "date": "2019-03-08", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "BPAC11", "quantity": 100, "price": 50.4, "cost": 7.9, "operation": "buy", "date": "2019-08-16", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "LREN3", "quantity": 100, "price": 53.7, "cost": 7.9, "operation": "sell", "date": "2019-10-08", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "MOVI3", "quantity": 400, "price": 16.7, "cost": 7.9, "operation": "sell", "date": "2020-01-18", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "MGLU3", "quantity": 400, "price": 54, "cost": 7.9, "operation": "sell", "date": "2020-03-02", "strategy": "Equities", "description": ""}
+{"asset":"equity", "name": "BPAC11", "quantity": 100, "price": 74.5, "cost": 7.9, "operation": "sell", "date": "2019-12-28", "strategy": "Equities", "description": ""}
+{"asset":"transfer", "name": "Deposit", "quantity": 1, "price": 70000, "cost": 0, "operation": "sell", "date": "2019-01-02", "strategy": null, "description": null}
+{"asset":"transfer", "name": "Withdrawal", "quantity": 1, "price": 40000, "cost": 0, "operation": "buy", "date": "2020-01-04", "strategy": null, "description": null}
+
+
