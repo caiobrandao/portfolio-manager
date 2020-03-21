@@ -1,5 +1,5 @@
 
-from ..asset.general import GeneralAsset
+from .general import GeneralAsset
 
 class EquityAsset(GeneralAsset):
 
